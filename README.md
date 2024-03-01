@@ -10,6 +10,8 @@ It was pretty easy to get the templated site up and running with the default "ho
 
 While the auto-build on the github end is nice and all, it's really just deploying a static site out of the Jekyll build process, which means this could be built locally and then just upload the `_site` directory for deployment. In fact I could use just about any [static site generator](https://jamstack.org/generators/), e.g [Hugo](https://gohugo.io/) if I wanted to.
 
+something
+
 ## Resources
 
 - [Making GitHub Pages Work With Jekyll 4+ and Any Theme and Plugin ](https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll/)
