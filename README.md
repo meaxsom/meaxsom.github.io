@@ -12,3 +12,4 @@ While the auto-build on the github end is nice and all, it's really just deployi
 
 I ended up following this tutorial on [Making GitHub Pages Work With Jekyll 4+ and Any Theme and Plugin ](https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll/). Because I had started my repo before this I had to juggle the deployment settings a bit and alter some of the specific versions of things in the Gemfile. Othewise it went fairly well.
 
+ something

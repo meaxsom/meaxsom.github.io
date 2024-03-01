@@ -38,6 +38,13 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-include-cache (0.2.1)
+      jekyll (>= 3.7, < 5.0)
+    jekyll-remote-theme (0.4.3)
+      addressable (~> 2.0)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-sass-converter (>= 1.0, <= 3.0.0, != 2.0.0)
+      rubyzip (>= 1.3.0, < 3.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -69,10 +76,8 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.6)
     rouge (4.2.0)
+    rubyzip (2.3.2)
     safe_yaml (1.0.5)
-    sass-embedded (1.71.1)
-      google-protobuf (~> 3.25)
-      rake (>= 13.0.0)
     sass-embedded (1.71.1-aarch64-linux-android)
       google-protobuf (~> 3.25)
     sass-embedded (1.71.1-aarch64-linux-gnu)
@@ -114,7 +119,6 @@ PLATFORMS
   arm-linux-gnueabihf
   arm-linux-musleabihf
   arm64-darwin
-  ruby
   x86-linux
   x86-linux-android
   x86-linux-gnu
@@ -128,8 +132,11 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-feed
+  jekyll-include-cache
+  jekyll-remote-theme
   jekyll-timeago
   minima (~> 2.5)
+  rake
 
 RUBY VERSION
    ruby 3.3.0p0
