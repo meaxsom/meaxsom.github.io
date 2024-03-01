@@ -32,8 +32,8 @@ github_username:  jekyll
 
 
 # Build settings
-# theme: minima
-remote_theme: https://github.com/just-the-docs/just-the-docs
+theme: midnight
+# remote_theme: https://github.com/just-the-docs/just-the-docs
 
 plugins:
   - jekyll-feed
