@@ -4,7 +4,7 @@ author = "Matthew E. Axsom"
 copyright = "Matthew E. Axsom"
 paginate = 10
 languageCode = "en"
-theme = "tailwind"
+theme = "hugo-theme-tailwind"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
