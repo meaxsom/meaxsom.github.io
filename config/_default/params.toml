@@ -1,0 +1,19 @@
+subtitle = "Twisty Little Passages"
+
+[footer]
+  since = 1986
+  poweredby = true
+
+[social_media]
+  [[social_media.items]]
+    enabled = true
+    title = 'LinkedIn'
+    icon = 'brand-linkedin'
+    link = 'https://www.linkedin.com/in/matthew-axsom'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/meaxsom/'
+
