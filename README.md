@@ -20,6 +20,7 @@
 - A [How-To](https://www.adamormsby.com/posts/000/how-to-set-up-a-hugo-site-on-github-pages-with-submodules/) for Adding a theme as a submodle for hosted pages on github
 
 - [FavIcons in Hugo](https://stackoverflow.com/questions/42043648/where-do-i-put-my-favicon-with-hugo)
+    - [refresh](https://stackoverflow.com/questions/2208933/how-do-i-force-a-favicon-refresh)
 
 - AI Based Image Generation via [krea.ai](https://www.krea.ai/)
 
