@@ -36,7 +36,7 @@ and perhaps some others. My idea is to run an "on demand" workload by:
 
 - Dropping a new, similarly formatted XML and/or JSON file into an S3 bucket
 - Launching ECS/Fargate with the Neo4J image based on a S3 "trigger"
-- Attach ECS/Fargate to image to EBS to act as attached database storage for ECS/Fargate
+- Attach ECS/Fargate image to EBS to act as database storage for ECS/Fargate
 - Use AWS Lambda to process data and add it to the Neo4J database
 - Tear the whole thing down when complete, but retain the database in EBS
 
