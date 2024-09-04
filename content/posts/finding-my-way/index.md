@@ -19,7 +19,7 @@ My how time flies. The "journey" is now almost 5 months old and - while there is
 - Co-workers are great
 - Company builds amazing homes and produces incredible millwork
 
-That's the primary list. On the more abstract end, there's a freedom with development work I've not had in a long, long time. It's easy to get lost in developing a really nice solution/extension/update/feature that meets a defined need and having an immediate feedback from your userbase. Not having to produce software that's the front-line, money making asset is something completely new. It is nice being in a supportive/behind the scenes role. As my carear starts winding down it's a wonderful, creative, stress reduced niche to be in.
+That's the primary list. On the more abstract end, there's a freedom with development work I've not had in a long, long time. It's easy to get lost in developing a really nice solution/extension/update/feature that meets a defined need and having an immediate feedback from your userbase. Not having to produce software that's the front-line, money making asset is something completely new. It is nice being in a supportive/behind the scenes role. At the moment, it's a wonderful, creative, stress reduced niche to be in.
 
 Some things that are peaking my interest as my roll starts to evolve beyond just developing database solutions:
 - Learning [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4)   
