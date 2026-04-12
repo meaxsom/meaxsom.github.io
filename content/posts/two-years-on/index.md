@@ -28,7 +28,7 @@ What I've Learned:
 - My identity extends well beyond my job or career
 - Building internal business software is as fulfilling as product development
 
-Looking back at what I wrote at the [6-month mark](posts/finding-my-way/), getting lost in the problem/need solving still happens, just not as much now that the major - and minor - patterns of FileMaker development have sunk in. A lot of the nagging issues that plagued the system have been addressed by tracking down "root cause" instead of addressing symptoms. Developing an internal logging framework has really helped.
+Looking back at what I wrote at the [6-month mark](/posts/finding-my-way/), getting lost in the problem/need solving still happens, just not as much now that the major - and minor - patterns of FileMaker development have sunk in. A lot of the nagging issues that plagued the system have been addressed by tracking down "root cause" instead of addressing symptoms. Developing an internal logging framework has really helped.
 
 There's a fair amount of my day that's just IT trouble-shooting, e.g. user issues with:
 
