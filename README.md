@@ -27,3 +27,4 @@
 ## Notes
 
 - [Tailwind Theme](https://github.com/tomowang/hugo-theme-tailwind)
+- [Site Location](https://meaxsom.github.io/)
