@@ -1,0 +1,11 @@
+{
+  "name": "meaxsom.github.io",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "extended": true,
+      "version": "latest"
+    }
+  },
+  "postCreateCommand": "hugo version"
+}
